@@ -1,0 +1,35 @@
+.menuham li {
+   text-align: center;
+  width: 100px;
+  padding-bottom: 15px;
+      padding-top: 40px;
+  font-size:16px;
+  color: #231f20;
+display:inline;
+}
+/*media all*/
+.menuham ul {
+    padding-left: 80px;
+    list-style-type: none;
+    display: flex;
+    float: right;
+    width: 90%;
+}
+.menuham li {
+    padding-right: 20px;
+    padding-left: 20px;
+    text-align: center;
+    width: 100px;
+    padding-bottom: 15px;
+    padding-top: 40px;
+    font-size: 16px;
+    color: #231f20;
+    display: inline;
+}
+/*media all*/
+.fbar_ext {
+    float: right;
+    background-color: #a80c1e;
+    height: 40px;
+    display: inline;
+}
